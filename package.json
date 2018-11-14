@@ -1,5 +1,5 @@
 {
-  "name": "react-native-config",
+  "name": "@ossareh/react-native-config",
   "version": "0.11.5",
   "description": "Expose config variables to React Native apps",
   "keywords": ["env", "config", "config-var", "react-native", "android", "ios", "12factor"],
